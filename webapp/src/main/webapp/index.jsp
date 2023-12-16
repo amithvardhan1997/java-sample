@@ -46,7 +46,7 @@
                   <div class="col-sm-12  logo_section">
                      <div class="full">
                         <div class="center-desk">
-                          
+                           
                         </div>
                      </div>
                   </div>
@@ -75,11 +75,11 @@
                            <li class="nav-item">
                               <a class="nav-link" href="couple.html">Couple</a>
                            </li>
-                           <li class="nav-item">
+                           <li class="nav-item active">
                               <a class="nav-link" href="gallery.html">Gallery</a>
                            </li>
-                          
-                           <li class="nav-item active">
+                           
+                           <li class="nav-item">
                               <a class="nav-link" href="contact.html">Contact Us</a>
                            </li>
                         </ul>
@@ -94,143 +94,90 @@
             </div>
          </div>
       </div>
-      <!-- contact -->
-      <div class="contact">
-         <div class="container-fluid">
-            <div class="row ">
+      <!-- gallery -->
+      <div class="gallery">
+         <div class="container">
+            <div class="row">
                <div class="col-md-12">
-                  <div class="titlepage text_align_center">
-                     <h2>My First Stage Performance</h2>
+                  <div class="titlepage">
+                     <h2>My Gallery</h2>
                   </div>
                </div>
-               <div class="col-md-6">
-                  <div class="mapimg">
-                     <figure><img src="images/map.png" alt="#"/></figure>
-                  </div>
-               </div>
-               <div class="col-md-6">
-                  <form id="request" class="main_form">
+            </div>
+            <div class="tz-gallery">
+               <div class="row">
+                  <div class="col-md-4">
                      <div class="row">
-                        <div class="col-md-6 ">
-                         
-                           <p>There are many ghgfdkjkjfdhjhrghdrg hmghiordkhkdfglkjdgfslkjgrdb khkfdghlkfdglkjgf bkjdklxajds k fkjgfvkdsjklfgdj variations of pasThere are many ghgfdkjkjfdhjhrghdrg hmghiordkhkdfglkjdgfslkjgrdb khkfdghlkfdglkjgf bkjdklxajds k fkjgfvkdsjklfgdj sages of Lorem There are many ghgfdkjkjfdhjhrghdrg hmghiordkhkdfglkjdgfslkjgrdb khkfdghlkfdglkjgf bkjdklxajds k fkjgfvkdsjklfgdj  psum available, There are many ghgfdkjkjfdhjhrghdrg hmghiordkhkdfglkjdgfslkjgrdb khkfdghlkfdglkjgf bkjdklxajds k fkjgfvkdsjklfgdj  but the majority There are many ghgfdkjkjfdhjhrghdrg hmghiordkhkdfglkjdgfslkjgrdb khkfdghlkfdglkjgf bkjdklxajds k fkjgfvkdsjklfgdj  </p>
-                        
+                        <div class="col-md-12 ma_bottom30">
+                           <div class="lightbox">
+                              <img src="images/g1.jpg" alt="Bridge">
+                              <div class="view_main">
+                                 <h3>Couple</h3>
+                                 <a class="view_btn" href="images/g1.jpg"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-md-12 ma_bottom30">
+                           <div class="lightbox">
+                              <img src="images/g4.jpg" alt="Bridge">
+                              <div class="view_main">
+                                 <h3>Couple</h3>
+                                 <a class="view_btn" href="images/g4.jpg"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
                         </div>
                      </div>
-                  </form>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="row">
+                        <div class="col-md-12 ma_bottom30">
+                           <div class="lightbox">
+                              <img src="images/g2.jpg" alt="Bridge">
+                              <div class="view_main">
+                                 <h3>Couple</h3>
+                                 <a class="view_btn" href="images/g2.jpg"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-md-12 ma_bottom30">
+                           <div class="lightbox">
+                              <img src="images/g5.jpg" alt="Bridge">
+                              <div class="view_main">
+                                 <h3>Couple</h3>
+                                 <a class="view_btn" href="images/g5.jpg"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="row">
+                        <div class="col-md-12 ma_bottom30">
+                           <div class="lightbox">
+                              <img src="images/g3.jpg" alt="Bridge">
+                              <div class="view_main">
+                                 <h3>Couple</h3>
+                                 <a class="view_btn" href="images/g3.jpg"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-md-12 ma_bottom30">
+                           <div class="lightbox">
+                              <img src="images/g6.jpg" alt="Bridge">
+                              <div class="view_main">
+                                 <h3>Couple</h3>
+                                 <a class="view_btn" href="images/g6.jpg"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
       </div>
-      <!-- contact -->
-      <!--  footer -->
-      <footer>
-         <div class="footer">
-            <div class="container">
-               <div class="row border_bo1 ">
-                  <div class="col-md-4">
-                     <a class="logof" href="index.html"><img src="images/logo.png" alt="#"/></a> 
-                     <form class="form_subscri">
-                        <div class="row">
-                           <div class="col-md-12">
-                              <h3><u><b>Parinitha Jogi</u></b></h3>
-                           </div>
-                           <div class="col-md-12">
-                              
-                           </div>
-                           <div class="col-md-12">
-                              <button class="subsci_btn">Read Again</button>
-                           </div>
-                        </div>
-                     </form>
-                  </div>
-                  <div class="col-lg-2 col-md-4 col-sm-6">
-                     <div class="infoma">
-                        <h3>Information</h3>
-                        <ul>
-                           <li>There are many </li>
-                           <li>variations of pas</li>
-                           <li>sages of Lorem  </li>
-                           <li>psum available,  </li>
-                           <li>but the majority  </li>
-                           <li>have suffered  </li>
-                        </ul>
-                     </div>
-                  </div>
-                  <div class="col-lg-2 col-md-4 col-sm-6">
-                     <div class="infoma">
-                        <h3>Helpful Links</h3>
-                        <ul>
-                           <li>There are many </li>
-                           <li>variations of pas</li>
-                           <li>sages of Lorem  </li>
-                           <li>psum available,  </li>
-                           <li>but the majority  </li>
-                        </ul>
-                     </div>
-                  </div>
-                  <div class="col-lg-2 col-md-4 col-sm-6">
-                     <div class="infoma">
-                        <h3>Our Weddings</h3>
-                        <ul>
-                           <li>There are many </li>
-                           <li>variations of pas</li>
-                           <li>sages of Lorem  </li>
-                           <li>psum available,  </li>
-                           <li>but the majority  </li>
-                        </ul>
-                     </div>
-                  </div>
-                  <div class="col-lg-2 col-md-4 col-sm-6">
-                     <div class="infoma">
-                        <h3>Contact Me </h3>
-                        <ul class="conta">
-                           <li><i class="fa fa-map-marker" aria-hidden="true"></i>Bhilai 
-                           </li>
-                           <li><i class="fa fa-volume-control-phone" aria-hidden="true"></i>+91 8297264924</li>
-                           <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="Javascript:void(0)"> amithvardhan1997@gmail.com</a></li>
-                        </ul>
-                        <ul class="social_icon">
-                           <li><a href="https://www.facebook.com"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                           <li><a href="https://twitter.com/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                           <li><a href="https://in.linkedin.com/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                           <li><a href="https://www.instagram.com/parinitha_jogi?igshid=NzZlODBkYWE4Ng=="><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="copyright">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-md-12">
-<style>
-.button {
-  background-color: #008CBA;
-  border: none;
-  color: White;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-.button2 {background-color: #008CBA;} /* Blue */
-.button3 {background-color: #f44336;} /* Red */ 
-.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
-.button5 {background-color: #555555;} /* Black */
-</style>
-                        <p>Please do Follow my page: press here⇨<a href="https://www.instagram.com/l_o_v_e______everythinghh?igshid=NzZlODBkYWE4Ng=="> 
-<button class="button">Love_Everything</button></p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </footer>
-      <!-- end footer -->
+      <!-- end gallery -->
+      
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
