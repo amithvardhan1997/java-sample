@@ -73,7 +73,7 @@
                               <a class="nav-link" href="about.html">Natyam</a>
                            </li>
                            <li class="nav-item">
-                              <a class="nav-link" href="couple.html">Couple</a>
+                              <a class="nav-link" href="couple.html">pari</a>
                            </li>
                            <li class="nav-item active">
                               <a class="nav-link" href="gallery.html">Gallery</a>
